@@ -1,0 +1,13 @@
+{
+  "name": "egglish-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless Function en Vercel que conecta Egglish con la API de Gemini sin exponer la API Key.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0"
+  }
+}
