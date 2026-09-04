@@ -29,7 +29,7 @@ Reglas de personalidad y estilo:
 - Cierra tus respuestas invitando a seguir practicando cuando tenga sentido.
 `.trim();
 
-const MODEL = "gemini-2.5-flash";
+const MODEL = "gemini-1.5-flash";
 
 // ── Configura el origen permitido para CORS ───────────────────
 // Define FRONTEND_ORIGIN en las variables de entorno de Vercel
